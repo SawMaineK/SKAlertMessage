@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name" translatable="false">SKToastMessage</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="menu_settings" translatable="false">Settings</string>
+    <string name="title_activity_main" translatable="false">SK Toast Message</string>
+
+</resources>
